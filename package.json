@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "An open source clone of twitter. Bring your own ads and AI.",
   "private": true,
-  "workspaces": ["packages/*"],
+  "workspaces": ["packages/components", "packages/client"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shamashel/open-twit.git"
